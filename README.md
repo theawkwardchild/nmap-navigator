@@ -1,6 +1,9 @@
-# PenTest Workflow
+# NMap Navigator 
 
-PenTest Workflow is a penetration testing note management platform designed to streamline security assessments.
+NMap Navigator is a penetration testing note management platform designed to streamline security assessments.
+
+## AI Vibe Code Warning
+This was not written by humans and is provided "as is" without warranty. Feel free to use it however you'd like. Good luck!
 
 ## Overview
 
